@@ -1,1 +1,1 @@
-# html-portfolio-course
+# html-course-online-resume
